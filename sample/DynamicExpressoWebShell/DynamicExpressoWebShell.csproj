@@ -4,10 +4,12 @@
 		<TargetFramework>netcoreapp2.2</TargetFramework>
 
 		<IsPackable>false</IsPackable>
+
+		<UserSecretsId>aea9708c-b57f-4e50-b3c7-043bed90e91e</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="DynamicExpresso.Core" Version="2.1.0" />
+		<PackageReference Include="DynamicExpresso.Core" Version="2.2.0" />
 		<PackageReference Include="Microsoft.AspNetCore.All" />
 		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
 	</ItemGroup>
